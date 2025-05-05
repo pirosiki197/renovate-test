@@ -6,5 +6,5 @@
     "timezone": "Asia/Tokyo",
     "branchConcurrentLimit": 0,
     "prConcurrentLimit": 0,
-    "dependencyDashboardTitle": "Dependency Dashboard"
+    "dependencyDashboard": false
 }
