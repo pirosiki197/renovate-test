@@ -1,0 +1,9 @@
+{
+    "username": "renovate[bot]",
+    "gitAuthor": "Renovate Bot <1241154+pirosiki197-renovate[bot]@users.noreply.github.com>",
+    "onboarding": false,
+    "requireConfig": "optional",
+    "repositories": [
+        "pirosiki197/renovate-test"
+    ]
+}
